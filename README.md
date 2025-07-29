@@ -3,7 +3,7 @@ Small-scale projects in computational linguistics.
 
 ---
 
-## `UniversalReadabilityIndex`
+## `UniversalReadabilityIndex.py`
 
 **Description:**
 
